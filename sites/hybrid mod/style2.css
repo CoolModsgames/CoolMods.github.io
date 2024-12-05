@@ -1,0 +1,26 @@
+#h1 {
+    font-size: 4em;
+}
+
+#info {
+    font-size: 2em;
+}
+
+body {
+    background: linear-gradient(to right, red, magenta);
+    font-family: Verdana;
+    font-size: 2em;
+}
+
+#img1 {
+    height: 400px;
+    width: 700px;
+    border-radius: 40px;
+}
+
+#telegram {
+    border-radius: 110px;
+    height: 225px;
+    width: 225px;
+    background-image: url(img/telegram-Photoroom.png);
+}

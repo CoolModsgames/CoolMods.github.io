@@ -1,0 +1,22 @@
+.h1 {
+    font-size: 5em;
+    font-family: Verdana;
+}
+
+body {
+    background: linear-gradient(to right, red, magenta);
+    font-family: Verdana;
+}
+
+#hybridsylka {
+    border-radius: 110px;
+    height: 225px;
+    width: 225px;
+    background-image: url(img/5246797453011837744.jpg);
+    font-size: 2em;
+    font-family: Verdana;
+}
+
+.h4main {
+    font-size: 2em;
+}
