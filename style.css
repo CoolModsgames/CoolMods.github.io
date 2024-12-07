@@ -20,3 +20,21 @@ body {
 .h4main {
     font-size: 2em;
 }
+#shootingsylka {
+    border-radius: 110px;
+    height: 225px;
+    width: 225px;
+    background-image: url(img/5310179926076418455.jpg);
+    font-size: 2em;
+    font-family: Verdana;
+}
+
+.formb {
+    height: 225px;
+    width: 225px;
+}
+
+#forms {
+    display: flex;
+    justify-content: space-around;
+}
